@@ -1,4 +1,5 @@
 ## Hi there 👋
+### Analytical and results-driven Computer Science undergraduate equipped with a robust foundation in Software Development and Data Analytics. Skilled in Python, Java, and SQL, with hands-on experience engineering API-integrated applications and architecting end-to-end ETL pipelines. Proven track record of leveraging Power BI, Machine Learning, and scalable databases to transform complex operational datasets into actionable business intelligence.
 
 
 ## 🌐 Socials:
