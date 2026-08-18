@@ -1,55 +1,13 @@
-## Hi there 👋
-<h4> Analytical and results-driven Computer Science graduate equipped with a robust foundation in Software Development and Data Analytics. Skilled in Python, Java, and SQL, with hands-on experience engineering API-integrated applications and architecting end-to-end ETL pipelines. Proven track record of leveraging Power BI, Machine Learning, and scalable databases to transform complex operational datasets into actionable business intelligence.</h4>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devesh-dubey-45a771346) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dubeydevesh18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deveshdubey625@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=deveshdubey18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=deveshdubey18&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=deveshdubey18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=deveshdubey18&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**deveshdubey18/deveshdubey18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h1 align="center">Hi 👋, I'm Devesh Dubey</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=2EB9DF&center=true&vCenter=true&random=false&width=435&lines=Devesh+R.+Dubey" alt="Typing SVG" />
+</h1>
 <h3 align="center">Data Analyst | Aspiring Data Scientist | Python · SQL · Power BI · Machine Learning</h3>
+
+## 🚀 About Me
 
 <p align="center">
 Analytical, results-driven Computer Science graduate skilled in Python, SQL, and Machine Learning — building end-to-end ETL pipelines, normalized relational databases, and Power BI dashboards that turn raw operational data into decision-ready insights. Achieved 97.7% test accuracy on an AutoML-optimized classification model.
 </p>
-
----
-
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deveshdubey18)
-[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/dubeydevesh18)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deveshdubey625@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deveshdubey18)
-
----
-
-## 🚀 About Me
 
 - 🎯 **Core Focus:** Data Analytics, ETL Pipelines, Relational Database Design, BI Dashboards
 - 🧠 **Currently Exploring:** Machine Learning & AutoML (FLAML, XGBoost) for real-world classification problems
@@ -57,31 +15,19 @@ Analytical, results-driven Computer Science graduate skilled in Python, SQL, and
 - 🎓 **Education:** B.Sc. Computer Science, University of Mumbai (CGPI: 8.68)
 - 📍 Based in Mumbai, India — open to entry-level Data Analyst / Data Science roles
 
----
 
-## 🛠️ Featured Projects
 
-- **[AeroxDB — Airline Database Management & Analytics System](https://github.com/deveshdubey18/Aerox_Database_Management)** *(MySQL, SQL, Power BI, DAX)*
-  Designed a fully normalized MySQL database (9 interconnected tables) for airline operations — fleet, crew, bookings, and revenue — enforcing referential integrity via foreign key and CHECK constraints. Built Power BI/DAX dashboards for profit-by-currency and satisfaction-by-travel-class to guide maintenance prioritization and route profitability.
+## 🌐 Connect with me
 
-- **[Air Quality Humidity Prediction Model](https://github.com/deveshdubey18/Air_Quality_Humidity_Prediction_Model)** *(Python, Pandas, Scikit-learn)*
-  A machine learning model that predicts absolute humidity from air quality sensor data and environmental features.
+<div align='center'> 
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deveshdubey18)
+[![X](https://img.shields.io/badge/X-black.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/dubeydevesh18)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:deveshdubey625@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/deveshdubey18)
 
-- **[Telecom Churn Model](https://github.com/deveshdubey18/telecom_churnmodel)** *(Python, Jupyter Notebook)*
-  A classification model analyzing customer data to predict churn, helping identify at-risk customers for proactive retention.
+</div>
 
-- **[Flight Booking App](https://github.com/deveshdubey18/FlightBookingApp)** *(React, JavaScript)*
-  A frontend flight-booking application built with React.
-
-- **[Calcount](https://github.com/deveshdubey18/calcount)** *(Java, Android Studio)*
-  An API-based calorie and nutrition tracking Android application.
-
-- **[Gym Administration Application](https://github.com/deveshdubey18/Gym-Administration-application)** *(HTML, CSS)*
-  A gym administration and management interface.
-
-*Also on the resume: a Heart Disease Risk Prediction pipeline (FLAML AutoML + XGBoost, 97.73% test accuracy) and a Nexus Pay fraud-analytics database — reach out if you'd like a walkthrough.*
-
----
 
 ## ⚡ Tech Stack
 
@@ -131,13 +77,29 @@ Analytical, results-driven Computer Science graduate skilled in Python, SQL, and
 [![Linear Algebra](https://img.shields.io/badge/Linear_Algebra-6A5ACD?style=flat-square)](#)
 [![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6A5ACD?style=flat-square)](#)
 
----
 
-## 📊 GitHub Stats
+## 🛠️ Featured Projects
 
-[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deveshdubey18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github.com/deveshdubey18)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deveshdubey18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/deveshdubey18)
+## 🚀 Featured Projects
 
----
+- **[Heart Risk Prediction Model](https://github.com/deveshdubey18/Heart_Risk_PredictionModel)** *(Python, Pandas, Scikit-learn, FLAML, XGBoost, SMOTE)*
+  Built an end-to-end heart disease risk prediction pipeline using clinical features such as age, blood pressure, glucose, CK-MB, and troponin. Used FLAML AutoML for automated model selection and hyperparameter optimization, with XGBoost achieving **97.73% test accuracy** after preprocessing, feature scaling, and SMOTE-based class balancing.
+
+- **[Air Quality & Humidity Prediction Model](https://github.com/deveshdubey18/Air_Quality_Humidity_Prediction_Model)** *(Python, Pandas, Scikit-learn, Random Forest)*
+  Developed a machine learning regression model to predict **Absolute Humidity (AH)** from air-quality sensor measurements and environmental features using the UCI Air Quality dataset. Implemented data cleaning, missing-value imputation, feature scaling, categorical encoding, and a **Random Forest Regressor** for predictive modeling.
+
+- **[Candidate Selection Prediction Model](https://github.com/deveshdubey18/Candidate_Selection_Prediction_Model)** *(Python, Pandas, Scikit-learn, SMOTE, Random Forest, FLAML)*
+  Developed a machine learning classification pipeline to predict candidate selection using academic, professional, technical-skill, project, certification, and experience attributes. Implemented modular data ingestion and preprocessing with imputation, One-Hot Encoding, MinMax scaling, SMOTE class balancing, and Random Forest classification, achieving **87.37% accuracy**.
+
+- **[AeroxDB — Airline Database Management & Analytics System](https://github.com/deveshdubey18/Aerox_Database_Management)** *(MySQL, SQL, Power BI, DAX)*
+  Designed a fully normalized MySQL database with **9 interconnected tables** covering aircraft, airports, flights, passengers, bookings, crew, reviews, and revenue. Enforced relational integrity through foreign keys and constraints, then connected the database to Power BI to analyze revenue, profitability, passenger trends, travel classes, aircraft utilization, and customer satisfaction.
+
+- **[Nexus Pay — FinTech Database & Fraud Analytics System](https://github.com/deveshdubey18/Nexus-Pay-DB)** *(MySQL, SQL, Power BI)*
+  Designed a relational database for a UPI-based FinTech payment platform covering users, KYC, digital wallets, bank accounts, merchants, transactions, fraud detection, loans, cashback, autopay, and customer support. Implemented transaction auditing, rule-based fraud risk scoring, relational constraints, and a Power BI-ready structure for transaction, revenue, fraud, merchant, and user analytics.
+
+- **[CalCount — Calorie & Nutrition Tracking Android Application](https://github.com/deveshdubey18/calcount)** *(Java, Android Studio, Android SDK, REST API, SharedPreferences)*
+  Developed an Android calorie and nutrition tracking application that integrates the **Nutritionix API** to retrieve food calorie, protein, carbohydrate, and fat information. Implemented local data persistence using SharedPreferences instead of an external database, providing a lightweight and privacy-focused nutrition tracking experience.
+
+## 
 
 📫 **Let's connect** — open to entry-level Data Analyst / Data Science opportunities and conversations about data, dashboards, and ML.
