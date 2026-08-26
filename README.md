@@ -78,7 +78,6 @@ Analytical, results-driven Computer Science graduate skilled in Python, SQL, and
 [![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6A5ACD?style=flat-square)](#)
 
 
-## 🛠️ Featured Projects
 
 ## 🚀 Featured Projects
 
