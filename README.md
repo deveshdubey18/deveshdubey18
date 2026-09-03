@@ -5,7 +5,7 @@
 **Turning raw operational data into decision-ready insights — ETL pipelines, normalized databases, and Power BI dashboards.**
 
 <a href="https://deveshdubey18.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐_View_My_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-<a href="https://deveshdubey18.github.io/resume.pdf"><img src="https://img.shields.io/badge/Résumé-2EB9DF?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
+<a href="https://deveshdubey18.github.io/portfolio/resume.pdf"><img src="https://img.shields.io/badge/Résumé-2EB9DF?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Resume" /></a>
 <a href="https://www.linkedin.com/in/deveshdubey18"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:deveshdubey625@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://x.com/dubeydevesh18"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
@@ -123,12 +123,7 @@ Worked across cloud fundamentals (IaaS / PaaS / SaaS), virtualization, and infra
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=deveshdubey18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveshdubey18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=deveshdubey18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=deveshdubey18&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
 
 </div>
 
@@ -140,7 +135,7 @@ Worked across cloud fundamentals (IaaS / PaaS / SaaS), virtualization, and infra
 
 I'm currently **open to entry-level Data Analyst / Data Science roles** — and always happy to talk data, dashboards, and ML.
 
-**[🌐 Portfolio](https://deveshdubey18.github.io/portfolio/) · [📄 Résumé](https://deveshdubey18.github.io/resume.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/deveshdubey18) · [📧 Email](mailto:deveshdubey625@gmail.com) · [🐦 X](https://x.com/dubeydevesh18)**
+**[🌐 Portfolio](https://deveshdubey18.github.io/portfolio/) · [📄 Résumé](https://deveshdubey18.github.io/portfolio/resume.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/deveshdubey18) · [📧 Email](mailto:deveshdubey625@gmail.com) · [🐦 X](https://x.com/dubeydevesh18)**
 
 ⭐️ *If a project here helps you, a star means a lot.*
 
