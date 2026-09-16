@@ -123,7 +123,7 @@ Worked across cloud fundamentals (IaaS / PaaS / SaaS), virtualization, and infra
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=deveshdubey18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=deveshdubey18&theme=tokyonight&hide_border=true&cache_seconds=0" alt="GitHub Streak" />
 
 </div>
 
