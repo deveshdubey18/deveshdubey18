@@ -25,7 +25,7 @@ devesh = {
     "role":      "Data Analyst → Aspiring Data Scientist",
     "location":  "Mumbai, India 📍",
     "stack":     ["Python", "SQL", "Power BI", "Scikit-learn", "MySQL"],
-    "exploring": ["AutoML (FLAML)", "XGBoost", "Advanced DAX"],
+    "exploring": ["AutoML (FLAML)", "AutoGluon (by AWS)", "Advanced DAX"],
     "portfolio": "https://deveshdubey18.github.io/portfolio/",
     "status":    "Open to entry-level Data Analyst / Data Science roles",
 }
