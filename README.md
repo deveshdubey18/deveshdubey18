@@ -88,7 +88,7 @@ devesh = {
 
 ## 🏆 Featured Projects
 
-| Project | Stack | Outcome |
+| Project | Stack | Outcome | 
 |---|---|---|
 | 🫀 **[Heart Disease Risk Prediction](https://github.com/deveshdubey18/Heart_Risk_PredictionModel)** | Python · Scikit-learn · FLAML · XGBoost · SMOTE | End-to-end ML pipeline (cleaning → encoding → scaling → SMOTE → AutoML tuning) reaching **97.73% test accuracy** |
 | ✈️ **[AeroxDB — Airline DB & Analytics](https://github.com/deveshdubey18/Aerox_Database_Management)** | MySQL · SQL · Power BI · DAX | Fully normalized **9-table** airline schema (fleet, crew, bookings, revenue) powering a live Power BI dashboard |
