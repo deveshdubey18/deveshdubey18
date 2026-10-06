@@ -139,5 +139,4 @@ I'm currently **open to entry-level Data Analyst / Data Science roles** — and 
 **[🌐 Portfolio](https://deveshdubey18.github.io/portfolio/) · [📄 Résumé](https://deveshdubey18.github.io/portfolio/resume.pdf) · [💼 LinkedIn](https://www.linkedin.com/in/deveshdubey18) · [📧 Email](mailto:deveshdubey625@gmail.com) · [🐦 X](https://x.com/dubeydevesh18)**
 
 ⭐️ *If a project here helps you, a star means a lot.*
-
 </div>
